@@ -19,6 +19,13 @@ This is a small portfolio showcasing my projects and skills. The portfolio is bu
 - Skills section highlighting HTML and CSS usage
 - Easy to customize and extend
 
+#### Installation
+
+1. Clone the repository:
+
+
+        git clone https://github.com/your-username/your-portfolio.git
+
 1 Open the project folder:
 
      cd your-portfolio
