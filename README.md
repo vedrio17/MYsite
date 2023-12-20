@@ -4,16 +4,13 @@ This is a small portfolio showcasing my projects and skills. The portfolio is bu
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can view a live demo of the portfolio [here](#).
 
 ## Features
 
