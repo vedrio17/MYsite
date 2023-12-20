@@ -23,8 +23,8 @@ You can view a live demo of the portfolio [here](#).
 - Easy to customize and extend
 
 1 Open the project folder:
-'''bash
-   cd your-portfolio
+
+     cd your-portfolio
 ## Usage
 Open the index.html file in your preferred web browser to view the portfolio locally. Customize the content in the HTML files to add your own projects and information.
 
