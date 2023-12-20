@@ -22,24 +22,14 @@ You can view a live demo of the portfolio [here](#).
 - Skills section highlighting HTML and CSS usage
 - Easy to customize and extend
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-
-
--Open the project folder:
+1 Open the project folder:
 '''bash
-cd your-portfolio
-
+   cd your-portfolio
 ## Usage
- Open the index.html file in your preferred web browser to view the portfolio locally. Customize the content in the HTML files to add your own projects and information.
+Open the index.html file in your preferred web browser to view the portfolio locally. Customize the content in the HTML files to add your own projects and information.
 
-bash
- open index.html
-
+'''bash
+    open index.html
+    
 ## Contributing
 If you would like to contribute or make improvements, feel free to open an issue or submit a pull request.
-
