@@ -23,12 +23,12 @@ This is a small portfolio showcasing my projects and skills. The portfolio is bu
 
 1. Clone the repository:
 
-
-        git clone https://github.com/your-username/your-portfolio.git
+   
+       git clone https://github.com/your-username/your-portfolio.git
 
 1 Open the project folder:
 
-     cd your-portfolio
+      cd your-portfolio
 ## Usage
 Open the index.html file in your preferred web browser to view the portfolio locally. Customize the content in the HTML files to add your own projects and information.
 
